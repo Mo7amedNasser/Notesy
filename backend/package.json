@@ -1,5 +1,5 @@
 {
-  "name": "notesy",
+  "name": "notesy-backend",
   "version": "1.0.0",
   "main": "src/server.js",
   "type": "module",
@@ -7,7 +7,16 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "notes",
+    "express",
+    "mongodb",
+    "mongoose",
+    "mern",
+    "api",
+    "backend",
+    "rate-limiter"
+  ],
   "author": "Mohamed Nasser",
   "license": "MIT",
   "description": "MERN Stack - Notes App with Rate Limiter",

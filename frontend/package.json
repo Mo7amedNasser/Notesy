@@ -1,14 +1,27 @@
 {
-  "name": "frontend",
+  "name": "notesy-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Frontend of Notesy - MERN notes app with RBAC, TailwindCSS, and Vite",
+  "author": "Mohamed Nasser",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "notes-app",
+    "frontend",
+    "daisyui",
+    "mern",
+    "notesy"
+  ],
   "dependencies": {
     "@tailwindcss/vite": "^4.1.10",
     "axios": "^1.10.0",
