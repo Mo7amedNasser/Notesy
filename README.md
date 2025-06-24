@@ -14,7 +14,7 @@ It allows users to register, log in, and manage personal notes with a clean UI a
 
 ## 📸 Screenshots
 
-![Notesy Screenshot](../frontend/public/home-preview.png)
+![Notesy Screenshot](/frontend/public/home-preview.png)
 
 ---
 
