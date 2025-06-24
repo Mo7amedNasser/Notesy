@@ -11,17 +11,18 @@
 ![Create](frontend/public/create-page.png)
 
 ### ✍️ Update Note  
-![Create](frontend/public/update-page.png)
+![Update](frontend/public/update-page.png)
 
 ---
 
 ## 🚀 Features
 
-- 📓 Full **CRUD** operations for notes
-- 🔁 Fully tested **RESTful API** via **Postman**
-- 🎨 Beautiful and responsive UI using **TailwindCSS** and **DaisyUI**
-- ⚡ Fast React app bootstrapped with **Vite**
-- 🧠 Clean, scalable codebase with modular folder structure
+- 📓 Full **CRUD** operations for notes  
+- 🔁 Fully tested **RESTful API** via **Postman**  
+- 📄 [View Postman API Documentation »](https://documenter.getpostman.com/view/35951396/2sB2xCiq8b)  
+- 🎨 Beautiful and responsive UI using **TailwindCSS** and **DaisyUI**  
+- ⚡ Fast React app bootstrapped with **Vite**  
+- 🧠 Clean, scalable codebase with modular folder structure  
 - 🌐 Deployed frontend and backend separately on **Vercel** and **Railway**
 
 ---
