@@ -1,50 +1,47 @@
 # 📝 Notesy - MERN Notes App
 
-Notesy is a **full-stack note-taking application** built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-It allows users to register, log in, and manage personal notes with a clean UI and secure authentication.
+**Notesy** is a minimalist full-stack notes application built with the **MERN stack** (MongoDB, Express, React, Node.js). It allows users to create, read, update, and delete notes through a clean and responsive interface.
 
 ---
 
-## 🚀 Live Demo
+### 🏠 Home Page  
+![Home](frontend/public/home-page.png)
 
-> 🔗 Frontend: [Coming Soon on Vercel]
-> 🔗 Backend: [Coming Soon on Railway]
+### ✍️ Create Note  
+![Create](frontend/public/create-page.png)
 
----
-
-## 📸 Screenshots
-
-![Notesy Screenshot](/frontend/public/home-preview.png)
+### ✍️ Update Note  
+![Create](frontend/public/update-page.png)
 
 ---
 
-## 🛠️ Features
+## 🚀 Features
 
-- 👤 **User Authentication** (JWT-based)
-- 📝 **CRUD Operations** for Notes
-- 🗄️ **MongoDB Integration**
-- 🔐 **Password Hashing** with bcrypt
-- 📦 **Role-based Access Control** (Admin & User)
-- 🎨 **Responsive UI** with React & TailwindCSS
-- 🚫 **Rate Limiting** on API routes (for security)
+- 📓 Full **CRUD** operations for notes
+- 🔁 Fully tested **RESTful API** via **Postman**
+- 🎨 Beautiful and responsive UI using **TailwindCSS** and **DaisyUI**
+- ⚡ Fast React app bootstrapped with **Vite**
+- 🧠 Clean, scalable codebase with modular folder structure
+- 🌐 Deployed frontend and backend separately on **Vercel** and **Railway**
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-**Frontend**:
-- React.js (Vite)
-- Tailwind CSS
+### 🔷 Frontend
+- React (Vite)
+- TailwindCSS
+- DaisyUI (Tailwind component library)
 - Axios
+- React Router DOM
 
-**Backend**:
+### 🔶 Backend
 - Node.js
 - Express.js
-- MongoDB with Mongoose
-- JSON Web Tokens (JWT)
-- Bcrypt for password hashing
+- MongoDB (Mongoose)
 
-**DevOps**:
-- Vercel (Frontend Hosting)
-- Railway (Backend Hosting)
-- GitHub (Version Control)
+### 🛠 Tools
+- Postman (API testing)
+- Railway (Backend hosting)
+- Vercel (Frontend hosting)
+- Git & GitHub
