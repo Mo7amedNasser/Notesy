@@ -24,6 +24,7 @@
 - ⚡ Fast React app bootstrapped with **Vite**  
 - 🧠 Clean, scalable codebase with modular folder structure  
 - 🌐 Deployed frontend and backend separately on **Vercel** and **Railway**
+- 🛡️ API rate limiting implemented using Upstash Redis to protect endpoints from abuse
 
 ---
 
@@ -43,6 +44,7 @@
 
 ### 🛠 Tools
 - Postman (API testing)
+- Upstash Redis (for API rate limiting)
 - Railway (Backend hosting)
 - Vercel (Frontend hosting)
 - Git & GitHub
